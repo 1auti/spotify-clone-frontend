@@ -2,9 +2,10 @@
 
 Angular frontend of the spotify clone
 
-![Pantalla del clon de Spotify 1](.spotify1.png)
 
-![Pantalla del clon de Spotify 2](.spotify2.png)
+![Pantalla del clon de Spotify 1](./spotify1.png)
+
+![Pantalla del clon de Spotify 2](./spotify2.png)
 
 
 [Spring boot Backend](https://github.com/C0de-cake/spotify-clone-back)
